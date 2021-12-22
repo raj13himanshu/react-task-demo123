@@ -1,0 +1,183 @@
+.container{
+    border: 5px solid black;
+}
+
+.row{
+    border: 3px black;
+}
+
+.orange{
+    background: orange;
+}
+
+.pink{
+    background: pink;
+}
+.green{
+    color: green;
+}
+/* 
+.boxcolor11{
+   background: #ddd6cd;
+} */
+
+.white{
+    background: white;
+}
+
+.blue{
+    background: rgb(8, 7, 53);
+}
+
+.bg-color1{
+    background: rgb(247, 236, 236) ;
+}
+
+.bg-color3{
+    background: #c4bfb3;
+}
+
+.bg-color2{
+    background: #ded7cd;
+}
+
+.navbar{
+font-family: sans-serif;
+width:auto;
+}
+
+.icon{
+  height: 30px; 
+  border-radius: 70%;
+}
+
+.navbar-custom {
+  height: 100%;
+  background-color: #1c4461; 
+  background-image: linear-gradient(to right, #1c4461, #41696b);
+}
+
+.box1 {
+  width: 600px;
+  height: 600px;
+  padding: 0px;
+  border: 1px ;
+  
+}
+.box2 {
+  height: 70px;
+  left: 5%;
+  padding: 2;
+  border-radius: 5%;
+   background: rgb(9, 27, 87);
+   bottom: 1%;
+   top:10%
+  
+}
+
+.vl{
+border-left:  3px solid rgb(219, 111, 9);
+  position: relative; 
+}
+
+.txt{
+  font-size: x-small;
+  
+}
+
+.orn{
+    color: rgb(219, 111, 9);
+
+}
+
+.green{
+    color: rgb(12, 116, 38);
+
+}
+
+
+
+.box3 {
+  width: 230px;
+  height: 140px;
+  padding: 1;
+  border: 1px ;
+  border-radius: 5%;
+background: rgb(247, 236, 236);
+  
+}
+
+.box4{
+  width: 230px;
+  height: 90px;
+  background: rgb(247, 236, 236);
+  border-radius: 5%;
+}
+
+.border5{
+    border-radius: 1%;
+}
+
+.design123 {
+  max-width: 920px;
+  width: 100%;
+  line-height: 1.4;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+
+
+
+
+/*  */
+
+
+
+.text-o {
+  color: rgb(146, 97, 5);
+}
+
+.text-w {
+  color: rgb(255, 255, 255);
+}
+
+.text-g {
+  color: rgb(5, 85, 5);
+}
+
+.text-c {
+  color: #bfbfc4;
+}
+
+.pencil-t {
+  border-top: 1px solid #eceae7;
+}
+
+.pencil-b {
+  border-bottom: 1px solid #eceae7;
+}
+
+.pencil-l {
+  border-left: 2px solid rgb(146, 97, 5);
+}
+
+.pencil-r {
+  border-right: 1px solid #eceae7;
+}
+
+.f-15 {
+  font-size: 13.5px;
+}
+.f-13 {
+  font-size: 13px;
+}
+
+.f-16 {
+  font-size: 15px;
+}
+
+.bg-b {
+  background-color: #0d1228;
+}
